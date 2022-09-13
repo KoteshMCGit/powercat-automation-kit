@@ -1,0 +1,34 @@
+<appaction uniquename="autocoe_RiskMatrix!19fcc1aef5c04d1c9d1e0c5988768bf6!autocoe_AutomationCoEHub!autocoe_auditlog!0">
+  <appmoduleid>
+    <uniquename>autocoe_AutomationCenter</uniquename>
+  </appmoduleid>
+  <buttonlabeltext default="Risk Matrix">
+    <label description="Risk Matrix" languagecode="1033" />
+  </buttonlabeltext>
+  <buttonsequencepriority>15.0000000000</buttonsequencepriority>
+  <context>1</context>
+  <contextentity>
+    <logicalname>autocoe_auditlog</logicalname>
+  </contextentity>
+  <contextvalue>autocoe_auditlog</contextvalue>
+  <fonticon>Warning</fonticon>
+  <hidden>0</hidden>
+  <iscustomizable>1</iscustomizable>
+  <location>0</location>
+  <name>RiskMatrix!19fcc1aef5c04d1c9d1e0c5988768bf6</name>
+  <onclickeventformulacomponentlibrary>c2dc28e8-de29-4910-b584-07b249280718</onclickeventformulacomponentlibrary>
+  <onclickeventformulacomponentlibraryid>
+    <name>autocoe_automationcenterdefaultcommandlibrary_960e9</name>
+  </onclickeventformulacomponentlibraryid>
+  <onclickeventformulacomponentname>52e8cfdf2b0449fb8a6f36dae3bdf913</onclickeventformulacomponentname>
+  <onclickeventformulafunctionname>OnSelect</onclickeventformulafunctionname>
+  <onclickeventjavascriptfunctionname>OpenSidePanel</onclickeventjavascriptfunctionname>
+  <onclickeventjavascriptparameters>[]</onclickeventjavascriptparameters>
+  <onclickeventjavascriptwebresourceid>
+    <webresourceid>e2d4e765-ee37-ec11-8c64-0022486db719</webresourceid>
+  </onclickeventjavascriptwebresourceid>
+  <onclickeventtype>2</onclickeventtype>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+  <type>0</type>
+</appaction>
